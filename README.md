@@ -1,7 +1,7 @@
 # CMPE-255-Dimensionality-Reduction-Techniques
 1: This repository contains colab for various techniques of dimensionality reductiont.<br />
 2: The 2 dataset used are Wine dataset for tabular dataset from Kaggle.com and is saved in the same repository in csv file and the other one is Digits which is image dataset from sklearn dataset.<br />
-3: The colab file can be easily opened using the 'Open in Colab button'.<br />
+3: There are 2 colabs 'DimensionalityReduction_For_Image_Dataset.ipynb' for Image dataset and 'DimensionalityReduction_For_Tabular_Dataset.ipynb' for tabular dataset.<br />
 4: It also contains descriptive comments in each step to describe the process.<br />
 5: The conclusion of the analysis for Tabular dataset is:<br/>
       
