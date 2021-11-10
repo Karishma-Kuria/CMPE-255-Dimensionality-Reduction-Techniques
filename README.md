@@ -4,8 +4,8 @@
 3: The colab file can be easily opened using the 'Open in Colab button'.<br />
 4: It also contains descriptive comments in each step to describe the process.<br />
 5: The conclusion of the analysis for Tabular dataset is:<br/>
+      
     1.UMAP outperformed all the techniques as it is very effective for visualization and its speed is better compared to others.<br />
-
     2.Principal Component Analysis: This is most widely used techniques for dealing with linear data. It divides the data into a set of components which try to       explain as much variance as possible.<br />
     3.ISOMAP: We use this technique when the data is strongly non-linear.<br />
     4.t-SNE: This technique also works well when the data is strongly non-linear. It works extremely well for visualizations as well.<br />
